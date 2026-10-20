@@ -1,0 +1,24 @@
+button {
+    margin: 15px;
+}
+
+.badge-free {
+    background-color: #bdbdbd;
+    color: black;
+    padding: 8px 12px;
+    border-radius: 6px;
+}
+
+.badge-pro {
+    background-color: #2563eb;
+    color: #ffffff;
+    padding: 8px 12px;
+    border-radius: 6px;
+}
+
+.badge-premium {
+    background-color: goldenrod;
+    color: black;
+    padding: 8px 12px;
+    border-radius: 6px;
+}
