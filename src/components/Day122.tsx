@@ -3,7 +3,7 @@ import { useState } from 'react';
 // Day 122
 // Audio Track List
 
-// Структура трека
+// Track structure
 interface Track {
     id: number;
     title: string;
@@ -11,7 +11,7 @@ interface Track {
     duration: string;
 }
 
-// Интерфейс пропсов
+// Props interface
 interface TrackRowProps {
     track: Track;
     isPlaying: boolean;
@@ -50,7 +50,7 @@ function Day122() {
     );
 }
 
-// Дочерний компонент
+// Child component
 function TrackRow({ track, isPlaying, onPlay }: TrackRowProps) {
     return (
         <div>
