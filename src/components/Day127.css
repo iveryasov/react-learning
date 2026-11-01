@@ -1,0 +1,15 @@
+.online-block {
+    background-color: darkgreen;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.paused-block {
+    background-color: #790a02;
+    color: aliceblue;
+    padding: 20px;
+}
+
+fieldset {
+    margin-bottom: 15px;
+}
