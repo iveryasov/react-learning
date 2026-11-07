@@ -1,9 +1,9 @@
-import Day131 from './components/Day131';
+import Day132 from './components/Day132';
 
 function App() {
   return (
     <div>
-      <Day131 />
+      <Day132 />
     </div>
   );
 }
