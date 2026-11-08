@@ -1,8 +1,8 @@
 import { useState } from "react";
 
 // Day 133
-// Интерактивная карточка профиля на Tailwind
-// Изучение Tailwind CSS
+// Interactive profile card with Tailwind
+// Learning Tailwind CSS
 
 function Day133() {
     // States:
